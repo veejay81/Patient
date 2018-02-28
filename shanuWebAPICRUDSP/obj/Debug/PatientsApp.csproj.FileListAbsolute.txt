@@ -1,0 +1,29 @@
+C:\Users\vijay\Downloads\New folder\C#\shanuWebAPICRUDSP\bin\shanuWebAPICRUDSP.dll
+C:\Users\vijay\Downloads\New folder\C#\shanuWebAPICRUDSP\bin\shanuWebAPICRUDSP.pdb
+C:\Users\vijay\Downloads\New folder\C#\shanuWebAPICRUDSP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vijay\Downloads\New folder\C#\shanuWebAPICRUDSP\bin\Newtonsoft.Json.dll
+C:\Users\vijay\Downloads\New folder\C#\shanuWebAPICRUDSP\bin\System.Net.Http.Formatting.dll
+C:\Users\vijay\Downloads\New folder\C#\shanuWebAPICRUDSP\bin\System.Web.Http.dll
+C:\Users\vijay\Downloads\New folder\C#\shanuWebAPICRUDSP\bin\System.Web.Http.WebHost.dll
+C:\Users\vijay\Downloads\New folder\C#\shanuWebAPICRUDSP\bin\Newtonsoft.Json.xml
+C:\Users\vijay\Downloads\New folder\C#\shanuWebAPICRUDSP\bin\System.Net.Http.Formatting.xml
+C:\Users\vijay\Downloads\New folder\C#\shanuWebAPICRUDSP\bin\System.Web.Http.xml
+C:\Users\vijay\Downloads\New folder\C#\shanuWebAPICRUDSP\bin\System.Web.Http.WebHost.xml
+C:\Users\vijay\Downloads\New folder\C#\shanuWebAPICRUDSP\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\vijay\Downloads\New folder\C#\shanuWebAPICRUDSP\obj\Debug\shanuWebAPICRUDSP.dll
+C:\Users\vijay\Downloads\New folder\C#\shanuWebAPICRUDSP\obj\Debug\shanuWebAPICRUDSP.pdb
+C:\Users\vijay\Downloads\New folder\C#\shanuWebAPICRUDSP\obj\Debug\PatientsApp.csprojResolveAssemblyReference.cache
+C:\Users\vijay\Documents\GitHub\Patients\shanuWebAPICRUDSP\bin\shanuWebAPICRUDSP.dll
+C:\Users\vijay\Documents\GitHub\Patients\shanuWebAPICRUDSP\bin\shanuWebAPICRUDSP.pdb
+C:\Users\vijay\Documents\GitHub\Patients\shanuWebAPICRUDSP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vijay\Documents\GitHub\Patients\shanuWebAPICRUDSP\bin\Newtonsoft.Json.dll
+C:\Users\vijay\Documents\GitHub\Patients\shanuWebAPICRUDSP\bin\System.Net.Http.Formatting.dll
+C:\Users\vijay\Documents\GitHub\Patients\shanuWebAPICRUDSP\bin\System.Web.Http.dll
+C:\Users\vijay\Documents\GitHub\Patients\shanuWebAPICRUDSP\bin\System.Web.Http.WebHost.dll
+C:\Users\vijay\Documents\GitHub\Patients\shanuWebAPICRUDSP\bin\Newtonsoft.Json.xml
+C:\Users\vijay\Documents\GitHub\Patients\shanuWebAPICRUDSP\bin\System.Net.Http.Formatting.xml
+C:\Users\vijay\Documents\GitHub\Patients\shanuWebAPICRUDSP\bin\System.Web.Http.xml
+C:\Users\vijay\Documents\GitHub\Patients\shanuWebAPICRUDSP\bin\System.Web.Http.WebHost.xml
+C:\Users\vijay\Documents\GitHub\Patients\shanuWebAPICRUDSP\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\vijay\Documents\GitHub\Patients\shanuWebAPICRUDSP\obj\Debug\shanuWebAPICRUDSP.dll
+C:\Users\vijay\Documents\GitHub\Patients\shanuWebAPICRUDSP\obj\Debug\shanuWebAPICRUDSP.pdb

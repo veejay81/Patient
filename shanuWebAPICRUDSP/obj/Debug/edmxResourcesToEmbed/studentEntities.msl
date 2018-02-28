@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="studentDBModelStoreContainer" CdmEntityContainer="studentDBEntities">
+    <EntitySetMapping Name="StudentMasters">
+      <EntityTypeMapping TypeName="studentDBModel.StudentMaster">
+        <MappingFragment StoreEntitySet="StudentMasters">
+          <ScalarProperty Name="StdID" ColumnName="StdID" />
+          <ScalarProperty Name="StdName" ColumnName="StdName" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+        </MappingFragment>
+      </EntityTypeMapping>
+      <EntityTypeMapping TypeName="studentDBModel.StudentMaster">
+        <ModificationFunctionMapping>
+          <InsertFunction FunctionName="studentDBModel.Store.USP_Student_Insert">
+            <ScalarProperty Name="Email" ParameterName="email" />
+            <ScalarProperty Name="Address" ParameterName="Address" />
+            <ScalarProperty Name="Phone" ParameterName="Phone" />
+            <ScalarProperty Name="StdName" ParameterName="StdName" />
+          </InsertFunction>
+          <UpdateFunction FunctionName="studentDBModel.Store.USP_Student_Update">
+            <ScalarProperty Name="Email" ParameterName="email" Version="Current" />
+            <ScalarProperty Name="Address" ParameterName="Address" Version="Current" />
+            <ScalarProperty Name="Phone" ParameterName="Phone" Version="Current" />
+            <ScalarProperty Name="StdName" ParameterName="StdName" Version="Current" />
+            <ScalarProperty Name="StdID" ParameterName="StdID" Version="Current" />
+          </UpdateFunction>
+          <DeleteFunction FunctionName="studentDBModel.Store.USP_Student_Delete">
+            <ScalarProperty Name="StdID" ParameterName="StdID" />
+          </DeleteFunction>
+        </ModificationFunctionMapping>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="USP_Student_Delete" FunctionName="studentDBModel.Store.USP_Student_Delete" />
+    <FunctionImportMapping FunctionImportName="USP_Student_Insert" FunctionName="studentDBModel.Store.USP_Student_Insert" />
+    <FunctionImportMapping FunctionImportName="USP_Student_Select" FunctionName="studentDBModel.Store.USP_Student_Select">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="studentDBModel.USP_Student_Select_Result">
+          <ScalarProperty Name="StdID" ColumnName="StdID" />
+          <ScalarProperty Name="StdName" ColumnName="StdName" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="USP_Student_Update" FunctionName="studentDBModel.Store.USP_Student_Update" />
+  </EntityContainerMapping>
+</Mapping>
